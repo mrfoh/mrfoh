@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on ...
 
-Streamweaver - A proof of concept message broker powered by Redis streams.
+[Streamweaver](https://github.com/streamweaverio/broker) - A proof of concept message broker powered by Redis streams.
+
 <!--
 **mrfoh/mrfoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
