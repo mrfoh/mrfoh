@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Patrick, a software engineer with significant experience building backend systems at scale.
+
 - 🔭 I’m currently working on ...
 
 [Streamweaver](https://github.com/streamweaverio/broker) - A proof of concept message broker powered by Redis streams.
