@@ -2,6 +2,11 @@
 
 I'm Patrick, a software engineer with significant experience building backend systems at scale.
 
+- I just released;
+
+[HttpProbe](https://mrfoh.github.io/httpprobe/) - A powerful HTTP API testing tool for defining, running, and validating API tests using YAML or JSON test definitions.
+Give it a try and share your feedback.
+
 - 🔭 I’m currently working on ...
 
 [Streamweaver](https://github.com/streamweaverio/broker) - A proof of concept message broker powered by Redis streams.
